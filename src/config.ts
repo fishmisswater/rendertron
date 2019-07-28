@@ -37,7 +37,7 @@ export class ConfigManager {
     public static config: Config = {
         datastoreCache: true,
         timeout: 10000,
-        port: '4005',
+        port: '4004',
         width: 1000,
         height: 1000,
     };
